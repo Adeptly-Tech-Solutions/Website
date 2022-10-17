@@ -24,17 +24,17 @@ const StartupAgency = () => {
 
       <MainBanner />
 
-      <FeaturedServices />
+      {/*<FeaturedServices />*/}
 
-      <CaseStudies />
+      {/*<CaseStudies />*/}
 
-      <FeedbackTwo />
+      {/*<FeedbackTwo />*/}
 
       <BestServices />
 
-      <Partner />
+      {/*<Partner />*/}
 
-      <Feedback />
+      {/*<Feedback />*/}
 
       <Portfolio />
 

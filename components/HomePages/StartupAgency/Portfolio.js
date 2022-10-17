@@ -18,23 +18,23 @@ const Portfolio = () => {
         <div className="mw-1920">
           <div className="row m-0">
             <div className="col-lg-3 col-sm-6 p-0">
-              <div className="single-portfolio">
-                <img src="/images/portfolio/portfolio1.jpg" alt="image" />
+              {/*<div className="single-portfolio">*/}
+              {/*  <img src="/images/portfolio/portfolio1.jpg" alt="image" />*/}
 
-                <div className="portfolio-content">
-                  <h3>
-                    <Link href="/portfolio-details">
-                      <a>UX Workflow</a>
-                    </Link>
-                  </h3>
+              {/*  <div className="portfolio-content">*/}
+              {/*    <h3>*/}
+              {/*      <Link href="/portfolio-details">*/}
+              {/*        <a>UX Workflow</a>*/}
+              {/*      </Link>*/}
+              {/*    </h3>*/}
 
-                  <Link href="/portfolio-details">
-                    <a className="link-btn">
-                      <i className="pe-7s-link"></i>
-                    </a>
-                  </Link>
-                </div>
-              </div>
+              {/*    <Link href="/portfolio-details">*/}
+              {/*      <a className="link-btn">*/}
+              {/*        <i className="pe-7s-link"></i>*/}
+              {/*      </a>*/}
+              {/*    </Link>*/}
+              {/*  </div>*/}
+              {/*</div>*/}
 
               <div className="single-portfolio">
                 <img src="/images/portfolio/portfolio2.jpg" alt="image" />
@@ -76,23 +76,23 @@ const Portfolio = () => {
             </div>
 
             <div className="col-lg-3 col-sm-6 p-0">
-              <div className="single-portfolio">
-                <img src="/images/portfolio/portfolio4.jpg" alt="image" />
+              {/*<div className="single-portfolio">*/}
+              {/*  <img src="/images/portfolio/portfolio4.jpg" alt="image" />*/}
 
-                <div className="portfolio-content">
-                  <h3>
-                    <Link href="/portfolio-details">
-                      <a>React Development</a>
-                    </Link>
-                  </h3>
+              {/*  <div className="portfolio-content">*/}
+              {/*    <h3>*/}
+              {/*      <Link href="/portfolio-details">*/}
+              {/*        <a>React Development</a>*/}
+              {/*      </Link>*/}
+              {/*    </h3>*/}
 
-                  <Link href="/portfolio-details">
-                    <a className="link-btn" target="_blank">
-                      <i className="pe-7s-link"></i>
-                    </a>
-                  </Link>
-                </div>
-              </div>
+              {/*    <Link href="/portfolio-details">*/}
+              {/*      <a className="link-btn" target="_blank">*/}
+              {/*        <i className="pe-7s-link"></i>*/}
+              {/*      </a>*/}
+              {/*    </Link>*/}
+              {/*  </div>*/}
+              {/*</div>*/}
 
               <div className="single-portfolio">
                 <img src="/images/portfolio/portfolio5.jpg" alt="image" />
@@ -114,41 +114,41 @@ const Portfolio = () => {
             </div>
 
             <div className="col-lg-3 col-sm-6 p-0">
-              <div className="single-portfolio">
-                <img src="/images/portfolio/portfolio6.jpg" alt="image" />
+              {/*<div className="single-portfolio">*/}
+              {/*  <img src="/images/portfolio/portfolio6.jpg" alt="image" />*/}
 
-                <div className="portfolio-content">
-                  <h3>
-                    <Link href="/portfolio-details">
-                      <a>eCommerce</a>
-                    </Link>
-                  </h3>
+              {/*  <div className="portfolio-content">*/}
+              {/*    <h3>*/}
+              {/*      <Link href="/portfolio-details">*/}
+              {/*        <a>eCommerce</a>*/}
+              {/*      </Link>*/}
+              {/*    </h3>*/}
 
-                  <Link href="/portfolio-details">
-                    <a className="link-btn" target="_blank">
-                      <i className="pe-7s-link"></i>
-                    </a>
-                  </Link>
-                </div>
-              </div>
+              {/*    <Link href="/portfolio-details">*/}
+              {/*      <a className="link-btn" target="_blank">*/}
+              {/*        <i className="pe-7s-link"></i>*/}
+              {/*      </a>*/}
+              {/*    </Link>*/}
+              {/*  </div>*/}
+              {/*</div>*/}
 
-              <div className="single-portfolio">
-                <img src="/images/portfolio/portfolio7.jpg" alt="image" />
+              {/*<div className="single-portfolio">*/}
+              {/*  <img src="/images/portfolio/portfolio7.jpg" alt="image" />*/}
 
-                <div className="portfolio-content">
-                  <h3>
-                    <Link href="/portfolio-details">
-                      <a>UX for Mobile Apps</a>
-                    </Link>
-                  </h3>
+              {/*  <div className="portfolio-content">*/}
+              {/*    <h3>*/}
+              {/*      <Link href="/portfolio-details">*/}
+              {/*        <a>UX for Mobile Apps</a>*/}
+              {/*      </Link>*/}
+              {/*    </h3>*/}
 
-                  <Link href="/portfolio-details">
-                    <a className="link-btn" target="_blank">
-                      <i className="pe-7s-link"></i>
-                    </a>
-                  </Link>
-                </div>
-              </div>
+              {/*    <Link href="/portfolio-details">*/}
+              {/*      <a className="link-btn" target="_blank">*/}
+              {/*        <i className="pe-7s-link"></i>*/}
+              {/*      </a>*/}
+              {/*    </Link>*/}
+              {/*  </div>*/}
+              {/*</div>*/}
             </div>
           </div>
         </div>
