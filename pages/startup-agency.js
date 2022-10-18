@@ -18,47 +18,47 @@ import CtaAreaTwo from "../components/Common/CtaAreaTwo";
 import Footer from "../components/Layouts/Footer";
 
 const StartupAgency = () => {
-  return (
-    <>
-      <NavbarThree />
+    return (
+        <>
+            <NavbarThree/>
 
-      <MainBanner />
+            <MainBanner/>
 
-      {/*<FeaturedServices />*/}
+            {/*<FeaturedServices />*/}
 
-      {/*<CaseStudies />*/}
+            {/*<CaseStudies />*/}
 
-      {/*<FeedbackTwo />*/}
+            {/*<FeedbackTwo />*/}
 
-      <BestServices />
+            <BestServices/>
 
-      {/*<Partner />*/}
+            {/*<Partner />*/}
 
-      {/*<Feedback />*/}
+            {/*<Feedback />*/}
 
-      <Portfolio />
+            <Portfolio/>
 
-      <TeamStyleFour />
+            <TeamStyleFour/>
 
-      <FunFactsTwo />
+            {/*<FunFactsTwo />*/}
 
-      <WorkProcess />
+            {/*<WorkProcess />*/}
 
-      <PricingStyleThree />
+            <PricingStyleThree/>
 
-      <div className="pt-100">
-        <Newsletter />
-      </div>
+            {/*<div className="pt-100">*/}
+            {/*  <Newsletter />*/}
+            {/*</div>*/}
 
-      <div className="ptb-100">
-        <LatestNews />
-      </div>
+            {/*<div className="ptb-100">*/}
+            {/*  <LatestNews />*/}
+            {/*</div>*/}
 
-      <CtaAreaTwo />
+            {/*<CtaAreaTwo />*/}
 
-      <Footer />
-    </>
-  );
+            <Footer/>
+        </>
+    );
 };
 
 export default StartupAgency;
