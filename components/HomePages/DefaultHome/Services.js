@@ -7,35 +7,13 @@ const Services = () => {
       <div className="bg-fcfbfb pt-100 pb-70">
         <div className="container">
           <div className="section-title">
-            <h2>Our Services</h2>
+            <h2>What we offer?</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna.
+              We offer multiple services and are constantly expanding our repertoire.
             </p>
           </div>
 
           <div className="row justify-content-center">
-            <div
-              className="col-lg-4 col-sm-6"
-              data-aos="fade-up"
-              data-aos-duration="1200"
-              data-aos-delay="100"
-            >
-              <div className="service-card-one">
-                <i className="pe-7s-comment bg-13c4a1"></i>
-                <h3>
-                  <Link href="/service-details">
-                    <a>Business Consultancy</a>
-                  </Link>
-                </h3>
-                <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo.
-                </p>
-              </div>
-            </div>
-
             <div
               className="col-lg-4 col-sm-6"
               data-aos="fade-up"
@@ -50,30 +28,7 @@ const Services = () => {
                   </Link>
                 </h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo.
-                </p>
-              </div>
-            </div>
-
-            <div
-              className="col-lg-4 col-sm-6"
-              data-aos="fade-up"
-              data-aos-duration="1200"
-              data-aos-delay="300"
-            >
-              <div className="service-card-one">
-                <i className="pe-7s-light bg-ffb700"></i>
-                <h3>
-                  <Link href="/service-details">
-                    <a>Digital Marketing</a>
-                  </Link>
-                </h3>
-                <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo.
+                  Clean modern faces always include a website.
                 </p>
               </div>
             </div>
@@ -92,9 +47,7 @@ const Services = () => {
                   </Link>
                 </h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo.
+                  Having clients use a local app made for the hardware/software they use is priceless.
                 </p>
               </div>
             </div>
@@ -106,37 +59,14 @@ const Services = () => {
               data-aos-delay="500"
             >
               <div className="service-card-one">
-                <i className="pe-7s-cart bg-00d280"></i>
+                <i className="pe-7s-light bg-ffb700"></i>
                 <h3>
                   <Link href="/service-details">
-                    <a>eCommerce Development</a>
+                    <a>SEO</a>
                   </Link>
                 </h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo.
-                </p>
-              </div>
-            </div>
-
-            <div
-              className="col-lg-4 col-sm-6"
-              data-aos="fade-up"
-              data-aos-duration="1200"
-              data-aos-delay="600"
-            >
-              <div className="service-card-one">
-                <i className="pe-7s-users bg-ff612f"></i>
-                <h3>
-                  <Link href="/service-details">
-                    <a>Marketing & Reporting</a>
-                  </Link>
-                </h3>
-                <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo.
+                  Making sure your site is found is a necessary component to having a digital presence.
                 </p>
               </div>
             </div>

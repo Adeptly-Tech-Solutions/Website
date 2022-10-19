@@ -19,9 +19,7 @@ const Footer = () => {
                 </div>
 
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                  Tech solutions, done right.
                 </p>
 
                 <ul className="social-links">
@@ -55,23 +53,8 @@ const Footer = () => {
 
                 <ul className="list">
                   <li>
-                    <Link href="/">
-                      <a>Home</a>
-                    </Link>
-                  </li>
-                  <li>
                     <Link href="/about">
                       <a>About</a>
-                    </Link>
-                  </li>
-                  <li>
-                    <Link href="/services">
-                      <a>Services</a>
-                    </Link>
-                  </li>
-                  <li>
-                    <Link href="/portfolio">
-                      <a>Portfolio</a>
                     </Link>
                   </li>
                   <li>
@@ -123,19 +106,15 @@ const Footer = () => {
 
                 <ul className="get-in-touch">
                   <li>
-                    <i className="fa-solid fa-location-dot"></i> 2750 Quadra Street
-                    Victoria, Canada.
+                    <i className="fa-solid fa-location-dot"></i> Gruenbergerstr. 55 10245, Berlin
                   </li>
                   <li>
                     <i className="fa-solid fa-headset"></i>
-                    <a href="tel:+324-9442-515">+324-9442-515</a> 
-                    <br />
-                    <a href="tel:+324-9442-515">+324-9442-999</a>
+                    <a href="tel:017661654771">017661654771</a> 
                   </li>
                   <li>
                     <i className="fa-solid fa-envelope"></i>
-                    <a href="mailto:hello@pungent.com">hello@pungent.com</a>
-                    <a href="mailto:support@pungent.com">support@pungent.com</a>
+                    <a href="mailto:team@adeptly.com">team@adeptly.com</a>
                   </li>
                 </ul>
               </div>

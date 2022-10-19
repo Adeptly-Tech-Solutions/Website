@@ -21,60 +21,32 @@ const About = () => {
                 data-aos-delay="600"
               >
                 <img
-                  src="/images/about-img1.jpg"
+                  src="/images/adi-desk.png"
                   alt="image"
-                  className="rounded-10"
                 />
-
-                <div className="video-box">
-                  <div
-                    onClick={() => setToggler(!toggler)}
-                    className="video-btn"
-                  >
-                    <i className="fa-solid fa-play"></i>
-                  </div>
-                </div>
               </div>
             </div>
 
             <div className="col-lg-7 col-md-12">
               <div className="about-content about-content-two">
                 <div className="section-title">
-                  <h2>About Us</h2>
+                  <h2>Who we are?</h2>
                   <p>
-                    Lorem ipsum dolor sit amet, con se ctetur adipiscing elit.
-                    In sagittis eg esta ante, sed viverra nunc tinci dunt nec
-                    elei fend et tiram.
-                  </p>
-                </div>
-
-                <div className="about-text">
-                  <h4>Who We Are</h4>
-                  <p>
-                    Sed ut perspiciatis unde omnis iste natus error sit
-                    voluptatem accusantium doloremque laudantium, totam rem
-                    aperiam, eaque ipsa quae ab illo inventore veritatis et
-                    quasi architecto beatae vitae dicta sunt explicabo.
+                    Berlin resident developers who have worked in the industry together as a team.
                   </p>
                 </div>
 
                 <div className="about-text">
                   <h4>Our History</h4>
                   <p>
-                    But I must explain to you how all this mistaken idea of
-                    denouncing pleasure and praising pain was born and I will
-                    give you a complete account of the system, and expound the
-                    actual teachings of the great explorer of the truth.
+                    We've worked on our fair share of websites from back to end. Now we bring them to you personally.
                   </p>
                 </div>
 
                 <div className="about-text">
                   <h4>Our Mission</h4>
                   <p>
-                    At vero eos et accusamus et iusto odio dignissimos ducimus
-                    qui blanditiis praesentium voluptatum deleniti atque
-                    corrupti quos dolores et quas molestias excepturi sint
-                    occaecati cupiditate non provident, similique sunt in culpa.
+                    To bring bespoke digital faces to those who need it for a low price.
                   </p>
                 </div>
               </div>
