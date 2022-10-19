@@ -23,25 +23,17 @@ const MainBanner = () => {
               <div className="row">
                 <div className="col-lg-6">
                   <div className="main-banner-content">
-                    <span>A Digital Agency</span>
-                    <h1>We're a full-range digital agency.</h1>
+                    <h1>We make tech solutions.</h1>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore
-                      magna aliqua.
+                      Do you need a digital face for a modern, constantly adapting world?
+                    </p>
+
+                    <p>
+                      We're here to help.
                     </p>
 
                     <Link href="/contact">
                       <a className="btn btn-primary">Get Started</a>
-                    </Link>
-
-                    <Link href="#play-video">
-                      <a
-                        onClick={() => setToggler(!toggler)}
-                        className="btn btn-secondary"
-                      >
-                        <i className="fa-solid fa-play me-1"></i> How it works
-                      </a>
                     </Link>
                   </div>
                 </div>
