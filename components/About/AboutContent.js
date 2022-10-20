@@ -18,9 +18,7 @@ const AboutContent = () => {
                 <div className="section-title">
                   <h2>About Us</h2>
                   <p>
-                    Lorem ipsum dolor sit amet, con se ctetur adipiscing elit.
-                    In sagittis eg esta ante, sed viverra nunc tinci dunt nec
-                    elei fend et tiram.
+                    Adeptly is focused on bringing digital faces to businesses and
                   </p>
                 </div>
 

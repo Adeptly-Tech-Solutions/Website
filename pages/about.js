@@ -9,7 +9,7 @@ const Aabout = () => {
     <>
       <NavbarTwo />
 
-      <PageBanner pageTitle="About Us"/>
+      <PageBanner pageTitle="About Us" BGImage="/images/berlin.jpg"/>
 
       <AboutContent />
 
