@@ -9,8 +9,7 @@ const PricingStyleThree = () => {
           <div className="section-title">
             <h2>Choose The Pricing Plan</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              We offer a range of pricing plans to suit your needs. Whether you're looking for a modern site or a reliable mobile app.
             </p>
           </div>
 
