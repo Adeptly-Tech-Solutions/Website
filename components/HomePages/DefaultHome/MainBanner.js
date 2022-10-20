@@ -23,9 +23,9 @@ const MainBanner = () => {
               <div className="row">
                 <div className="col-lg-6">
                   <div className="main-banner-content">
-                    <h1>We make tech solutions.</h1>
+                    <h1>Websites, Mobile Apps and Data Protection.</h1>
                     <p>
-                      Do you need a digital face for a modern, constantly adapting world?
+                      Do you need a digital face for a modern constantly adapting world?
                     </p>
 
                     <p>

@@ -13,25 +13,6 @@ const AboutContent = () => {
       <div className="about-area ptb-100">
         <div className="container">
           <div className="row align-items-center">
-            <div className="col-lg-5 col-md-12">
-              <div className="about-image">
-                <img
-                  src="/images/about-img2.jpg"
-                  alt="image"
-                  className="rounded-10"
-                />
-
-                <div className="video-box">
-                  <div
-                    className="video-btn"
-                    onClick={() => setToggler(!toggler)}
-                  >
-                    <i className="fa-solid fa-play"></i>
-                  </div>
-                </div>
-              </div>
-            </div>
-
             <div className="col-lg-7 col-md-12">
               <div className="about-content about-content-two">
                 <div className="section-title">

@@ -28,7 +28,7 @@ const Services = () => {
                   </Link>
                 </h3>
                 <p>
-                  Clean modern faces always include a website.
+                  Websites are a 24/7 marketing tool. No business is complete without a modern face.
                 </p>
               </div>
             </div>
@@ -66,7 +66,7 @@ const Services = () => {
                   </Link>
                 </h3>
                 <p>
-                  Making sure your site is found is a necessary component to having a digital presence.
+                  Making sure your site is found is a necessary component to having a digital presence. 88% of customers who conduct an online search visit a business within a week.
                 </p>
               </div>
             </div>
