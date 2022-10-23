@@ -10,7 +10,7 @@ const Contact = () => {
     <>
       <NavbarTwo />
 
-      <PageBanner pageTitle="Contact Us"/>
+      <PageBanner pageTitle="Contact Us"  BGImage="/images/berlin.jpg"/>
 
       <ContactInfo />
 

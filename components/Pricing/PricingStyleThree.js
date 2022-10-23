@@ -9,7 +9,7 @@ const PricingStyleThree = () => {
           <div className="section-title">
             <h2>Pick Your Plan</h2>
             <p>
-              We offer a range of pricing plans to suit your needs. Whether you're looking for a modern site or a reliable mobile app.
+              We offer a range of pricing plans to suit your needs. Whether you're looking for a modern site, reliable mobile app or to look after your information.
             </p>
           </div>
 
@@ -26,10 +26,6 @@ const PricingStyleThree = () => {
                   <h3>Website plan</h3>
                 </div>
 
-                <div className="price">
-                  <sup></sup>2000,-
-                </div>
-
                 <ul className="pricing-features">
                   <li>
                     <i className="fa-solid fa-circle-check"></i>
@@ -37,37 +33,25 @@ const PricingStyleThree = () => {
                   </li>
                   <li>
                     <i className="fa-solid fa-circle-check"></i>
-                    Email Integration
+                    Hosting
                   </li>
                   <li>
                     <i className="fa-solid fa-circle-check"></i>
-                    Messenger Integration
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-circle-check"></i>
-                    Mobile + Desktop Apps
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-circle-check"></i>
-                    Quick Responses
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-circle-check"></i>
-                    Drag & Drop Widgets
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-circle-check"></i>
-                    Visitor Notes
+                    Email Setup
                   </li>
                   <li>
                     <i className="fa-solid fa-circle-check"></i>
                     Google Analytics
                   </li>
+                  <li>
+                    <i className="fa-solid fa-circle-check"></i>
+                    Running service
+                  </li>
                 </ul>
 
                 <div className="btn-box">
                   <Link href="#">
-                    <a className="btn btn-primary">Select the plan</a>
+                    <a className="btn btn-primary">Contact us</a>
                   </Link>
                 </div>
               </div>
@@ -85,18 +69,10 @@ const PricingStyleThree = () => {
                   <h3>App plan</h3>
                 </div>
 
-                <div className="price">
-                  3000,-
-                </div>
-
                 <ul className="pricing-features">
                   <li>
                     <i className="fa-solid fa-circle-check"></i>
-                    Web Development
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-circle-check"></i>
-                    Email Integration
+                    App Development
                   </li>
                   <li>
                     <i className="fa-solid fa-circle-check"></i>
@@ -104,29 +80,48 @@ const PricingStyleThree = () => {
                   </li>
                   <li>
                     <i className="fa-solid fa-circle-check"></i>
-                    Mobile + Desktop Apps
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-circle-check"></i>
                     Quick Responses
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-circle-check"></i>
-                    Drag & Drop Widgets
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-circle-check"></i>
-                    Visitor Notes
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-circle-check"></i>
-                    Google Analytics
                   </li>
                 </ul>
 
                 <div className="btn-box">
                   <Link href="#">
-                    <a className="btn btn-primary">Select the plan</a>
+                    <a className="btn btn-primary">Contact us</a>
+                  </Link>
+                </div>
+              </div>
+            </div>
+
+            {/* Single pricing table */}
+            <div className="col-lg-4 col-sm-6">
+              <div
+                className="single-pricing-table"
+                data-aos="fade-up"
+                data-aos-duration="1200"
+                data-aos-delay="100"
+              >
+                <div className="pricing-header">
+                  <h3>Security plan</h3>
+                </div>
+
+                <ul className="pricing-features">
+                  <li>
+                    <i className="fa-solid fa-circle-check"></i>
+                    Data leak check
+                  </li>
+                  <li>
+                    <i className="fa-solid fa-circle-check"></i>
+                    Security research
+                  </li>
+                  <li>
+                    <i className="fa-solid fa-circle-check"></i>
+                    Quick Responses
+                  </li>
+                </ul>
+
+                <div className="btn-box">
+                  <Link href="#">
+                    <a className="btn btn-primary">Contact us</a>
                   </Link>
                 </div>
               </div>

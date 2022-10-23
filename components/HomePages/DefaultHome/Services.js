@@ -70,6 +70,25 @@ const Services = () => {
                 </p>
               </div>
             </div>
+
+            <div
+              className="col-lg-4 col-sm-6"
+              data-aos="fade-up"
+              data-aos-duration="1200"
+              data-aos-delay="500"
+            >
+              <div className="service-card-one">
+                <i className="pe-7s-file bg-fc3549"></i>
+                <h3>
+                  <Link href="/service-details">
+                    <a>Security</a>
+                  </Link>
+                </h3>
+                <p>
+                  Keep things secure and looked after.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>

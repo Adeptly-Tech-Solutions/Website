@@ -8,7 +8,7 @@ const Team = () => {
           <div className="section-title">
             <h2>Skilled Team</h2>
             <p>
-              We are a budding team, eager to get the job done.
+              We're a budding team, eager to get the job done.
             </p>
           </div>
 
@@ -31,7 +31,7 @@ const Team = () => {
                   <p>CEO, Founder & Developer</p>
                   <ul>
                     <li>
-                      <a href="linkedin.com" target="_blank">
+                      <a href="https://www.linkedin.com/in/max-mckone-08141414a" target="_blank">
                         <i className="fa-brands fa-linkedin-in"></i>
                       </a>
                     </li>
@@ -48,11 +48,6 @@ const Team = () => {
                     <li>
                       <a href="https://www.instagram.com/" target="_blank">
                         <i className="fa-brands fa-instagram"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://dribbble.com/" target="_blank">
-                        <i className="fa-brands fa-dribbble"></i>
                       </a>
                     </li>
                   </ul>
@@ -78,7 +73,7 @@ const Team = () => {
                   <p>CEO, Founder & Developer</p>
                   <ul>
                     <li>
-                      <a href="linkedin.com" target="_blank">
+                      <a href="https://www.linkedin.com/in/codingwithadi" target="_blank">
                         <i className="fa-brands fa-linkedin-in"></i>
                       </a>
                     </li>
@@ -95,11 +90,6 @@ const Team = () => {
                     <li>
                       <a href="https://www.instagram.com/" target="_blank">
                         <i className="fa-brands fa-instagram"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://dribbble.com/" target="_blank">
-                        <i className="fa-brands fa-dribbble"></i>
                       </a>
                     </li>
                   </ul>

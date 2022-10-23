@@ -25,7 +25,7 @@ const MainBanner = () => {
                   <div className="main-banner-content">
                     <h1>Websites, Mobile Apps and Data Protection.</h1>
                     <p>
-                      Do you need a digital face for a modern constantly adapting world?
+                      Do you need a digital face for a modern constantly adapting world? Are you worried about your data? 
                     </p>
 
                     <p>

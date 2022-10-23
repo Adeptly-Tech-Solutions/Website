@@ -16,11 +16,11 @@ const Index = () => {
 
       <Services />
 
-      <PricingStyleThree/>
-
       <About />
 
       <Team />
+
+      <PricingStyleThree/>
 
       <Footer />
     </>
