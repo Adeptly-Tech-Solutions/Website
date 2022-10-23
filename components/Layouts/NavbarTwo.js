@@ -60,7 +60,7 @@ const NavbarTwo = () => {
             <div className={classOne} id="navbarSupportedContent">
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <Link href="/contact" activeClassName="active">
+                  <Link href="/about" activeClassName="active">
                     <a className="nav-link">About Us</a>
                   </Link>
                 </li>

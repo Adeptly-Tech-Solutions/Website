@@ -25,18 +25,14 @@ const AboutContent = () => {
                 <div className="about-text">
                   <h4>Who We Are</h4>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error sit
-                    voluptatem accusantium doloremque laudantium, totam rem
-                    aperiam, eaque ipsa quae ab illo inventore veritatis..
+                    We're a budding team located in Berlin, Germany. We thrive on making complex technical solutions, built on the newest technologies.
                   </p>
                 </div>
 
                 <div className="about-text">
                   <h4>Our History</h4>
                   <p>
-                    But I must explain to you how all this mistaken idea of
-                    denouncing pleasure and praising pain was born and I will
-                    give you a complete account of the.
+                    We have worked on many a site or app and are looking to work with clients locally and personally.
                   </p>
                 </div>
 
@@ -45,20 +41,15 @@ const AboutContent = () => {
                   <ul>
                     <li>
                       <i className="fa-solid fa-circle-check"></i>
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry.
+                      Clean and modern sites for an ever changing world
                     </li>
                     <li>
                       <i className="fa-solid fa-circle-check"></i>
-                      It is a long established fact that a reader will be
-                      distracted by the readable content of a page when looking
-                      at its layout.
+                      Close and personal work to ensure our partners stay happy
                     </li>
                     <li>
                       <i className="fa-solid fa-circle-check"></i>
-                      Contrary to popular belief, Lorem Ipsum is not simply
-                      random text. It has roots in a piece of classical Latin
-                      literature.
+                      Keeping an eye on vital data that runs the world
                     </li>
                   </ul>
                 </div>
