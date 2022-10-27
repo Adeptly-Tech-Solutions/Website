@@ -4,9 +4,8 @@
     "private": true,
     "scripts": {
         "dev": "next",
-        "build": "next build && next export",
-        "start": "next start",
-        "publish": "out"
+        "build": "next build",
+        "start": "next start"
     },
     "author": "EnvyTheme.com",
     "license": "ISC",
